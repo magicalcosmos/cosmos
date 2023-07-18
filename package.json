@@ -1,13 +1,13 @@
 {
-	"name": "cosmos",
-	"version": "1.0.0",
+	"name": "lcj-cosmos",
+	"version": "1.0.3",
 	"description": "Vue, React, NextJS, Angular base framework",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"bin": {
-		"cosmos": "bin/cosmo",
+		"cosmos": "bin/cosmos",
 		"cosmos-add": "bin/cosmos-add",
 		"cosmos-delete": "bin/cosmos-delete",
 		"cosmos-list": "bin/cosmos-list",
@@ -20,7 +20,7 @@
 		"chalk": "^4.1.2",
 		"cli-table": "^0.3.6",
 		"commander": "^2.19.0",
-		"download-git-repo": "^0.0.2",
+		"download-git-repo": "^1.1.0",
 		"inquirer": "^6.2.2",
 		"log-symbols": "^4.0.0",
 		"ora": "^3.2.0"

@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-npm install cosmos -g
+npm install lcj-cosmos -g
 ```
 
 or
