@@ -1,9 +1,12 @@
 {
-	"vue-cli4-vant": "https://github.com/magicalcosmos/vue-cli4-vant.git",
-	"angular16": "https://github.com/magicalcosmos/Base-Angular-16.git",
-	"unsrt": "https://github.com/magicalcosmos/unsrt.git",
-	"vue3": "https://github.com/magicalcosmos/vue3-template.git",
-	"vue2": "https://github.com/magicalcosmos/vue2-template.git",
-	"nextjs13-ssr": "https://github.com/magicalcosmos/nextjs-ssr-template.git",
-	"react17": "https://github.com/magicalcosmos/react17-template.git"
+	"vue-cli4-vant": "https://github.com/magicalcosmos/vue-cli4-vant.git#master",
+	"angular16": "https://github.com/magicalcosmos/Base-Angular-16.git#main",
+	"unsrt": "https://github.com/magicalcosmos/unsrt.git#main",
+	"vue3": "https://github.com/magicalcosmos/vue3-template.git#main",
+	"vue2": "https://github.com/magicalcosmos/vue2-template.git#main",
+	"nextjs13-ssr": "https://github.com/magicalcosmos/nextjs-ssr-template.git#main",
+	"react17": "https://github.com/magicalcosmos/react17-template.git#main",
+	"mall": "https://github.com/magicalcosmos/mall.git#master",
+	"pay": "https://github.com/magicalcosmos/roncoo-pay.git#master",
+	"navigation": "https://github.com/magicalcosmos/navigation.git#main"
 }
