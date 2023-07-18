@@ -1,6 +1,6 @@
 {
 	"name": "lcj-cosmos",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Vue, React, NextJS, Angular base framework",
 	"main": "index.js",
 	"scripts": {

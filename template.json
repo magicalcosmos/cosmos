@@ -1,5 +1,9 @@
 {
-	"vue-cli4-vant": "https://github.com/Michael-lzg/vue-cli4-vant.git",
-	"Angular16": "https://github.com/magicalcosmos/Base-Angular-16.git"
+	"vue-cli4-vant": "https://github.com/magicalcosmos/vue-cli4-vant.git",
+	"angular16": "https://github.com/magicalcosmos/Base-Angular-16.git",
+	"unsrt": "https://github.com/magicalcosmos/unsrt.git",
+	"vue3": "https://github.com/magicalcosmos/vue3-template.git",
+	"vue2": "https://github.com/magicalcosmos/vue2-template.git",
+	"nextjs13-ssr": "https://github.com/magicalcosmos/nextjs-ssr-template.git",
+	"react17": "https://github.com/magicalcosmos/react17-template.git"
 }
-

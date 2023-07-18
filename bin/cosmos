@@ -6,15 +6,22 @@ program.usage('<command>')
 program.version(require('../package').version)
 
 program
+  .command('init')
+  .description('Init a project')
+  .action(() => {
+    require('../commands/init')
+  })
+
+program
   .command('add')
-  .description('add a new template')
+  .description('Add a new template')
   .action(() => {
     require('../commands/add')
   })
 
 program
   .command('delete')
-  .description('delete a template')
+  .description('Delete a template')
   .action(() => {
     require('../commands/delete')
   })
@@ -26,11 +33,5 @@ program
     require('../commands/list')
   })
 
-program
-  .command('init')
-  .description('init a project')
-  .action(() => {
-    require('../commands/init')
-  })
 
 program.parse(process.argv)
